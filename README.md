@@ -18,5 +18,7 @@ echo "i2c-ELAN0001:00" > /sys/bus/i2c/drivers/i2c_hid/bind
 echo "blacklist elants_i2c" | tee /etc/modprobe.d/touchpad.con
 ```
 
+### This has to be executed after each restart so best use would be autorunning it at each boot
+
 
 
