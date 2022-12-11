@@ -1,7 +1,7 @@
 # Touchpad-Support-for-Lenovo-Ideapad-5-15are05 on Archlinux
 Helps with the common issue of the Touchpad not working on the Ideapad 15are05, might work for other laptops aswell.
-* Tested and Working in Manjoro
-
+* Tested and Working in Manjoro  
+Source : https://wiki.archlinux.org/title/Lenovo_IdeaPad_5_15are05  
 
 ## Installation :
 
